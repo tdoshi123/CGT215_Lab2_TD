@@ -25,5 +25,5 @@ int main()
 
     X = (0 - B) / A;
         
-    cout << "\nThe answer is: \nx=" << X << endl;
+    cout << "\nThe answer is: \nx = " << X << endl;
 }
